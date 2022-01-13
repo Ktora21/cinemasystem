@@ -1,4 +1,4 @@
-[{"title":"Voucher na jeden film","voucherId":1,"price":"$24.99"},
-{"title":"Voucher na dwa filmy","voucherId":2,"price":"$40.99"},
-{"title":"Voucher na dwie osoby","voucherId":3,"price":"$40.99"},
-{"title":"Voucher na miesiąc","voucherId":4,"price":"$150.99"}]
+[{"title":"Voucher na jeden film","voucherId":1,"price": 24.99},
+{"title":"Voucher na dwa filmy","voucherId":2,"price": 40.99 },
+{"title":"Voucher na dwie osoby","voucherId":3,"price": 40.99},
+{"title":"Voucher na miesiąc","voucherId":4,"price": 150.99 }]
